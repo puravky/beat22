@@ -5,9 +5,9 @@ A React Native (Expo) app + Node.js/Express backend for discovering music beats 
 ---
 
 ## 🚀 Deployed Backend Links
-- **Live Backend URL:** [beat22-backend](https://beat22-backend.onrender.com)
-- **API Base URL:** [beat22-api](https://beat22-backend.onrender.com/api)
-- **Health Check Endpoint:** [beat22-health](https://beat22-backend.onrender.com/health)
+- **Live Backend URL:** [https://beat22-backend.onrender.com](https://beat22-backend.onrender.com)
+- **API Base URL:** [https://beat22-backend.onrender.com/api](https://beat22-backend.onrender.com/api)
+- **Health Check Endpoint:** [https://beat22-backend.onrender.com/health](https://beat22-backend.onrender.com/health)
 
 ---
 
