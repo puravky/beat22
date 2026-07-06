@@ -19,6 +19,14 @@ app.get('/health', (req, res) => {
   res.json({ status: 'ok', timestamp: new Date().toISOString() });
 });
 
+app.get('/', (req, res) => {
+  res.json({
+    message: 'Welcome to Beat22 Backend API',
+    status: 'ok',
+    documentation: 'See README for API usage'
+  });
+});
+
 app.use('/api/beats', beatsRouter);
 app.use('/api/search', searchRouter);
 app.use('/api/recommendations', recommendationsRouter);
