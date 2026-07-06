@@ -4,9 +4,11 @@ services:
     runtime: node
     plan: free
     rootDir: backend
-    buildCommand: npm install -g bun && bun install --production
+    buildCommand: bun install --production
     startCommand: bun src/server.js
     envVars:
       - key: PORT
         value: 4000
+      - key: BUN_VERSION
+        value: 1.3.14
     healthCheckPath: /health
