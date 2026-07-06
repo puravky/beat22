@@ -5,9 +5,9 @@ A React Native (Expo) app + Node.js/Express backend for discovering music beats 
 ---
 
 ## 🚀 Deployed Backend Links
-- **Live Backend URL:** [beat22-backend](beat22-backend)
-- **API Base URL:** [beat22-api](beat22-api)
-- **Health Check Endpoint:** [beat22-health](beat22-health)
+- **Live Backend URL:** [beat22-backend](https://beat22-backend.onrender.com)
+- **API Base URL:** [beat22-api](https://beat22-backend.onrender.com/api)
+- **Health Check Endpoint:** [beat22-health](https://beat22-backend.onrender.com/health)
 
 ---
 
@@ -30,7 +30,7 @@ The frontend is built with React Native (Expo) and can be accessed in three ways
 ### 3. Production Web Deployment (Vercel)
 The mobile app is pre-configured for static hosting on Vercel:
 - **Build Command:** `bun run build:web`
-- **Vercel Config:** Already included in [mobile/vercel.json]
+- **Vercel Config:** Already included in [mobile/vercel.json](file:///Users/async/Downloads/beat22/mobile/vercel.json)
 - To deploy, import the `mobile/` subdirectory to Vercel and configure the `EXPO_PUBLIC_API_URL` environment variable to point to your deployed backend URL.
 
 ---
