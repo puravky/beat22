@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "title": "Electric Storm",
+    "producer": "Atlas",
+    "genre": "Hip Hop",
+    "mood": "Happy",
+    "bpm": 70,
+    "key": "F Major",
+    "duration_seconds": 233,
+    "tags": [
+      "bounce",
+      "summer",
+      "lofi",
+      "cinematic",
+      "strings"
+    ],
+    "description": "A happy hip hop beat featuring bounce, summer and lofi. Ideal for artists looking for a modern production style.",
+    "plays": 15687,
+    "likes": 2255
+  },
+  {
+    "id": 2,
+    "title": "Ocean Vision",
+    "producer": "Zen",
+    "genre": "Trap",
+    "mood": "Energetic",
+    "bpm": 90,
+    "key": "D Major",
+    "duration_seconds": 173,
+    "tags": [
+      "synth",
+      "lofi",
+      "808",
+      "ambient",
+      "drums"
+    ],
+    "description": "A energetic trap beat featuring synth, lofi and 808. Ideal for artists looking for a modern production style.",
+    "plays": 12331,
+    "likes": 963
+  },
+  {
+    "id": 3,
+    "title": "Gravity Rush",
+    "producer": "Rogue",
+    "genre": "Melodic Trap",
+    "mood": "Cinematic",
+    "bpm": 72,
+    "key": "A Minor",
+    "duration_seconds": 231,
+    "tags": [
+      "night",
+      "trap",
+      "drums",
+      "lofi",
+      "sample"
+    ],
+    "description": "A cinematic melodic trap beat featuring night, trap and drums. Ideal for artists looking for a modern production style.",
+    "plays": 18819,
+    "likes": 2266
+  },
+  {
+    "id": 4,
+    "title": "Golden Journey",
+    "producer": "Drift",
+    "genre": "Hip Hop",
+    "mood": "Melancholic",
+    "bpm": 72,
+    "key": "A Minor",
+    "duration_seconds": 172,
+    "tags": [
+      "afro",
+      "ambient",
+      "phonk",
+      "drums",
+      "lofi"
+    ],
+    "description": "A melancholic hip hop beat featuring afro, ambient and phonk. Ideal for artists looking for a modern production style.",
+    "plays": 43819,
+    "likes": 1564
+  },
+  {
+    "id": 5,
+    "title": "Midnight Frequency",
+    "producer": "Rogue",
+    "genre": "Lo-Fi",
+    "mood": "Uplifting",
+    "bpm": 135,
+    "key": "B Minor",
+    "duration_seconds": 216,
+    "tags": [
+      "synth",
+      "emotional",
+      "anthem",
+      "phonk",
+      "drill"
+    ],
+    "description": "A uplifting lo-fi beat featuring synth, emotional and anthem. Ideal for artists looking for a modern production style.",
+    "plays": 6274,
+    "likes": 791
+  },
+  {
+    "id": 6,
+    "title": "Golden Vibes",
+    "producer": "Lunar",
+    "genre": "Pop",
+    "mood": "Energetic",
+    "bpm": 80,
+    "key": "B Minor",
+    "duration_seconds": 178,
+    "tags": [
+      "phonk",
+      "club",
+      "trap",
+      "808",
+      "melodic"
+    ],
+    "description": "A energetic pop beat featuring phonk, club and trap. Ideal for artists looking for a modern production style.",
+    "plays": 11732,
+    "likes": 297
+  },
+  {
+    "id": 7,
+    "title": "Crystal Vibes",
+    "producer": "Kairo",
+    "genre": "Dancehall",
+    "mood": "Melancholic",
+    "bpm": 135,
+    "key": "E Minor",
+    "duration_seconds": 221,
+    "tags": [
+      "sad",
+      "piano",
+      "guitar",
+      "anthem",
+      "hard"
+    ],
+    "description": "A melancholic dancehall beat featuring sad, piano and guitar. Ideal for artists looking for a modern production style.",
+    "plays": 43463,
+    "likes": 877
+  },
+  {
+    "id": 8,
+    "title": "Ghost Lights",
+    "producer": "VibeSmith",
+    "genre": "Trap",
+    "mood": "Happy",
+    "bpm": 145,
+    "key": "D Minor",
+    "duration_seconds": 187,
+    "tags": [
+      "piano",
+      "reverb",
+      "melodic",
+      "happy",
+      "dreamy"
+    ],
+    "description": "A happy trap beat featuring piano, reverb and melodic. Ideal for artists looking for a modern production style.",
+    "plays": 38808,
+    "likes": 2378
+  },
+  {
+    "id": 9,
+    "title": "Solar Rush",
+    "producer": "Aether",
+    "genre": "Pop",
+    "mood": "Dreamy",
+    "bpm": 75,
+    "key": "A Minor",
+    "duration_seconds": 201,
+    "tags": [
+      "melodic",
+      "808",
+      "night",
+      "phonk",
+      "cinematic"
+    ],
+    "description": "A dreamy pop beat featuring melodic, 808 and night. Ideal for artists looking for a modern production style.",
+    "plays": 22819,
+    "likes": 846
+  },
+  {
+    "id": 10,
+    "title": "Golden Motion",
+    "producer": "VibeSmith",
+    "genre": "Hip Hop",
+    "mood": "Uplifting",
+    "bpm": 145,
+    "key": "G Minor",
+    "duration_seconds": 152,
+    "tags": [
+      "vocal",
+      "cinematic",
+      "dark",
+      "melodic",
+      "anthem"
+    ],
+    "description": "A uplifting hip hop beat featuring vocal, cinematic and dark. Ideal for artists looking for a modern production style.",
+    "plays": 4958,
+    "likes": 1529
+  },
+  {
+    "id": 11,
+    "title": "Solar Vibes",
+    "producer": "Atlas",
+    "genre": "Trap",
+    "mood": "Chill",
+    "bpm": 80,
+    "key": "F Major",
+    "duration_seconds": 238,
+    "tags": [
+      "trap",
+      "cinematic",
+      "melodic",
+      "bounce",
+      "afro"
+    ],
+    "description": "A chill trap beat featuring trap, cinematic and melodic. Ideal for artists looking for a modern production style.",
+    "plays": 3008,
+    "likes": 1997
+  },
+  {
+    "id": 12,
+    "title": "Broken Season",
+    "producer": "Pulse",
+    "genre": "Boom Bap",
+    "mood": "Uplifting",
+    "bpm": 72,
+    "key": "F Minor",
+    "duration_seconds": 152,
+    "tags": [
+      "piano",
+      "sample",
+      "dreamy",
+      "drill",
+      "sad"
+    ],
+    "description": "A uplifting boom bap beat featuring piano, sample and dreamy. Ideal for artists looking for a modern production style.",
+    "plays": 15621,
+    "likes": 972
+  },
+  {
+    "id": 13,
+    "title": "Gravity Vision",
+    "producer": "Zen",
+    "genre": "Lo-Fi",
+    "mood": "Aggressive",
+    "bpm": 90,
+    "key": "E Minor",
+    "duration_seconds": 125,
+    "tags": [
+      "808",
+      "happy",
+      "night",
+      "emotional",
+      "ambient"
+    ],
+    "description": "A aggressive lo-fi beat featuring 808, happy and night. Ideal for artists looking for a modern production style.",
+    "plays": 46403,
+    "likes": 294
+  },
+  {
+    "id": 14,
+    "title": "Cold Lights",
+    "producer": "Zen",
+    "genre": "Lo-Fi",
+    "mood": "Dark",
+    "bpm": 95,
+    "key": "C Major",
+    "duration_seconds": 153,
+    "tags": [
+      "anthem",
+      "drill",
+      "hard",
+      "cinematic",
+      "bass"
+    ],
+    "description": "A dark lo-fi beat featuring anthem, drill and hard. Ideal for artists looking for a modern production style.",
+    "plays": 46565,
+    "likes": 3161
+  },
+  {
+    "id": 15,
+    "title": "Crystal Rush",
+    "producer": "Drift",
+    "genre": "Melodic Trap",
+    "mood": "Aggressive",
+    "bpm": 90,
+    "key": "F Major",
+    "duration_seconds": 164,
+    "tags": [
+      "reverb",
+      "phonk",
+      "ambient",
+      "vocal",
+      "night"
+    ],
+    "description": "A aggressive melodic trap beat featuring reverb, phonk and ambient. Ideal for artists looking for a modern production style.",
+    "plays": 46156,
+    "likes": 4144
+  },
+  {
+    "id": 16,
+    "title": "Gravity Motion",
+    "producer": "Lunar",
+    "genre": "Hip Hop",
+    "mood": "Cinematic",
+    "bpm": 95,
+    "key": "C Major",
+    "duration_seconds": 210,
+    "tags": [
+      "trap",
+      "dark",
+      "summer",
+      "phonk",
+      "vocal"
+    ],
+    "description": "A cinematic hip hop beat featuring trap, dark and summer. Ideal for artists looking for a modern production style.",
+    "plays": 6115,
+    "likes": 464
+  },
+  {
+    "id": 17,
+    "title": "Wild Echo",
+    "producer": "Drift",
+    "genre": "Boom Bap",
+    "mood": "Energetic",
+    "bpm": 100,
+    "key": "C Minor",
+    "duration_seconds": 120,
+    "tags": [
+      "vocal",
+      "anthem",
+      "cinematic",
+      "reverb",
+      "emotional"
+    ],
+    "description": "A energetic boom bap beat featuring vocal, anthem and cinematic. Ideal for artists looking for a modern production style.",
+    "plays": 1930,
+    "likes": 979
+  },
+  {
+    "id": 18,
+    "title": "Lost Pulse",
+    "producer": "Rogue",
+    "genre": "Dancehall",
+    "mood": "Dark",
+    "bpm": 75,
+    "key": "D Minor",
+    "duration_seconds": 236,
+    "tags": [
+      "ambient",
+      "phonk",
+      "drums",
+      "bass",
+      "afro"
+    ],
+    "description": "A dark dancehall beat featuring ambient, phonk and drums. Ideal for artists looking for a modern production style.",
+    "plays": 38183,
+    "likes": 4355
+  },
+  {
+    "id": 19,
+    "title": "Wild Empire",
+    "producer": "Pulse",
+    "genre": "Dancehall",
+    "mood": "Energetic",
+    "bpm": 130,
+    "key": "C Minor",
+    "duration_seconds": 135,
+    "tags": [
+      "dark",
+      "drums",
+      "808",
+      "club",
+      "piano"
+    ],
+    "description": "A energetic dancehall beat featuring dark, drums and 808. Ideal for artists looking for a modern production style.",
+    "plays": 20052,
+    "likes": 245
+  },
+  {
+    "id": 20,
+    "title": "Electric Pulse",
+    "producer": "Kairo",
+    "genre": "Afrobeats",
+    "mood": "Aggressive",
+    "bpm": 80,
+    "key": "C Major",
+    "duration_seconds": 137,
+    "tags": [
+      "happy",
+      "drums",
+      "drill",
+      "trap",
+      "cinematic"
+    ],
+    "description": "A aggressive afrobeats beat featuring happy, drums and drill. Ideal for artists looking for a modern production style.",
+    "plays": 20605,
+    "likes": 1973
+  },
+  {
+    "id": 21,
+    "title": "Scarlet Rhythm",
+    "producer": "Atlas",
+    "genre": "Dancehall",
+    "mood": "Happy",
+    "bpm": 135,
+    "key": "C Minor",
+    "duration_seconds": 150,
+    "tags": [
+      "anthem",
+      "vocal",
+      "guitar",
+      "hard",
+      "bells"
+    ],
+    "description": "A happy dancehall beat featuring anthem, vocal and guitar. Ideal for artists looking for a modern production style.",
+    "plays": 36951,
+    "likes": 1186
+  },
+  {
+    "id": 22,
+    "title": "Neon Flame",
+    "producer": "VibeSmith",
+    "genre": "Pop",
+    "mood": "Dark",
+    "bpm": 110,
+    "key": "F Minor",
+    "duration_seconds": 168,
+    "tags": [
+      "happy",
+      "bass",
+      "strings",
+      "night",
+      "phonk"
+    ],
+    "description": "A dark pop beat featuring happy, bass and strings. Ideal for artists looking for a modern production style.",
+    "plays": 44720,
+    "likes": 2832
+  },
+  {
+    "id": 23,
+    "title": "Ocean Flame",
+    "producer": "Atlas",
+    "genre": "R&B",
+    "mood": "Melancholic",
+    "bpm": 85,
+    "key": "F Major",
+    "duration_seconds": 229,
+    "tags": [
+      "piano",
+      "trap",
+      "dark",
+      "sad",
+      "strings"
+    ],
+    "description": "A melancholic r&b beat featuring piano, trap and dark. Ideal for artists looking for a modern production style.",
+    "plays": 24150,
+    "likes": 1759
+  },
+  {
+    "id": 24,
+    "title": "Skyline Motion",
+    "producer": "VibeSmith",
+    "genre": "Lo-Fi",
+    "mood": "Dark",
+    "bpm": 75,
+    "key": "D Minor",
+    "duration_seconds": 154,
+    "tags": [
+      "vocal",
+      "synth",
+      "happy",
+      "strings",
+      "summer"
+    ],
+    "description": "A dark lo-fi beat featuring vocal, synth and happy. Ideal for artists looking for a modern production style.",
+    "plays": 1845,
+    "likes": 1373
+  },
+  {
+    "id": 25,
+    "title": "Velvet Empire",
+    "producer": "Horizon",
+    "genre": "Melodic Trap",
+    "mood": "Chill",
+    "bpm": 100,
+    "key": "F Major",
+    "duration_seconds": 142,
+    "tags": [
+      "bounce",
+      "trap",
+      "sad",
+      "anthem",
+      "dreamy"
+    ],
+    "description": "A chill melodic trap beat featuring bounce, trap and sad. Ideal for artists looking for a modern production style.",
+    "plays": 44247,
+    "likes": 3746
+  },
+  {
+    "id": 26,
+    "title": "Cold Rhythm",
+    "producer": "Pulse",
+    "genre": "Dancehall",
+    "mood": "Melancholic",
+    "bpm": 110,
+    "key": "F Minor",
+    "duration_seconds": 197,
+    "tags": [
+      "ambient",
+      "dark",
+      "drums",
+      "synth",
+      "piano"
+    ],
+    "description": "A melancholic dancehall beat featuring ambient, dark and drums. Ideal for artists looking for a modern production style.",
+    "plays": 40531,
+    "likes": 4587
+  },
+  {
+    "id": 27,
+    "title": "Ghost Horizon",
+    "producer": "Aether",
+    "genre": "R&B",
+    "mood": "Energetic",
+    "bpm": 150,
+    "key": "A Minor",
+    "duration_seconds": 190,
+    "tags": [
+      "cinematic",
+      "drill",
+      "hard",
+      "bounce",
+      "piano"
+    ],
+    "description": "A energetic r&b beat featuring cinematic, drill and hard. Ideal for artists looking for a modern production style.",
+    "plays": 43186,
+    "likes": 940
+  },
+  {
+    "id": 28,
+    "title": "Neon Waves",
+    "producer": "VibeSmith",
+    "genre": "Hip Hop",
+    "mood": "Cinematic",
+    "bpm": 100,
+    "key": "B Minor",
+    "duration_seconds": 121,
+    "tags": [
+      "phonk",
+      "summer",
+      "bounce",
+      "ambient",
+      "808"
+    ],
+    "description": "A cinematic hip hop beat featuring phonk, summer and bounce. Ideal for artists looking for a modern production style.",
+    "plays": 29429,
+    "likes": 2798
+  },
+  {
+    "id": 29,
+    "title": "Electric Storm",
+    "producer": "Rogue",
+    "genre": "Hip Hop",
+    "mood": "Dreamy",
+    "bpm": 90,
+    "key": "D Major",
+    "duration_seconds": 142,
+    "tags": [
+      "ambient",
+      "cinematic",
+      "melodic",
+      "happy",
+      "night"
+    ],
+    "description": "A dreamy hip hop beat featuring ambient, cinematic and melodic. Ideal for artists looking for a modern production style.",
+    "plays": 46052,
+    "likes": 4156
+  },
+  {
+    "id": 30,
+    "title": "Ghost Empire",
+    "producer": "Horizon",
+    "genre": "Lo-Fi",
+    "mood": "Dreamy",
+    "bpm": 150,
+    "key": "A Minor",
+    "duration_seconds": 126,
+    "tags": [
+      "club",
+      "reverb",
+      "night",
+      "bounce",
+      "summer"
+    ],
+    "description": "A dreamy lo-fi beat featuring club, reverb and night. Ideal for artists looking for a modern production style.",
+    "plays": 24302,
+    "likes": 622
+  },
+  {
+    "id": 31,
+    "title": "Neon Horizon",
+    "producer": "Lunar",
+    "genre": "Trap",
+    "mood": "Cinematic",
+    "bpm": 145,
+    "key": "A Minor",
+    "duration_seconds": 192,
+    "tags": [
+      "reverb",
+      "strings",
+      "drill",
+      "ambient",
+      "piano"
+    ],
+    "description": "A cinematic trap beat featuring reverb, strings and drill. Ideal for artists looking for a modern production style.",
+    "plays": 40744,
+    "likes": 4639
+  },
+  {
+    "id": 32,
+    "title": "Neon Dreams",
+    "producer": "Drift",
+    "genre": "Lo-Fi",
+    "mood": "Emotional",
+    "bpm": 130,
+    "key": "B Minor",
+    "duration_seconds": 176,
+    "tags": [
+      "dreamy",
+      "cinematic",
+      "anthem",
+      "guitar",
+      "night"
+    ],
+    "description": "A emotional lo-fi beat featuring dreamy, cinematic and anthem. Ideal for artists looking for a modern production style.",
+    "plays": 30121,
+    "likes": 3202
+  },
+  {
+    "id": 33,
+    "title": "Broken Season",
+    "producer": "Nova",
+    "genre": "Boom Bap",
+    "mood": "Aggressive",
+    "bpm": 135,
+    "key": "F Major",
+    "duration_seconds": 221,
+    "tags": [
+      "vocal",
+      "drums",
+      "melodic",
+      "emotional",
+      "anthem"
+    ],
+    "description": "A aggressive boom bap beat featuring vocal, drums and melodic. Ideal for artists looking for a modern production style.",
+    "plays": 19004,
+    "likes": 948
+  },
+  {
+    "id": 34,
+    "title": "Electric Lights",
+    "producer": "Lunar",
+    "genre": "Trap",
+    "mood": "Dreamy",
+    "bpm": 95,
+    "key": "A Minor",
+    "duration_seconds": 144,
+    "tags": [
+      "club",
+      "night",
+      "guitar",
+      "808",
+      "melodic"
+    ],
+    "description": "A dreamy trap beat featuring club, night and guitar. Ideal for artists looking for a modern production style.",
+    "plays": 28145,
+    "likes": 4043
+  },
+  {
+    "id": 35,
+    "title": "Moonlight Motion",
+    "producer": "Kairo",
+    "genre": "Lo-Fi",
+    "mood": "Chill",
+    "bpm": 135,
+    "key": "G Minor",
+    "duration_seconds": 174,
+    "tags": [
+      "anthem",
+      "happy",
+      "club",
+      "hard",
+      "vocal"
+    ],
+    "description": "A chill lo-fi beat featuring anthem, happy and club. Ideal for artists looking for a modern production style.",
+    "plays": 10453,
+    "likes": 661
+  },
+  {
+    "id": 36,
+    "title": "Solar Rhythm",
+    "producer": "Drift",
+    "genre": "Lo-Fi",
+    "mood": "Energetic",
+    "bpm": 70,
+    "key": "C Major",
+    "duration_seconds": 159,
+    "tags": [
+      "happy",
+      "vocal",
+      "808",
+      "hard",
+      "bounce"
+    ],
+    "description": "A energetic lo-fi beat featuring happy, vocal and 808. Ideal for artists looking for a modern production style.",
+    "plays": 2362,
+    "likes": 4084
+  },
+  {
+    "id": 37,
+    "title": "Cold Waves",
+    "producer": "Aether",
+    "genre": "Drill",
+    "mood": "Cinematic",
+    "bpm": 135,
+    "key": "F Minor",
+    "duration_seconds": 236,
+    "tags": [
+      "drill",
+      "night",
+      "hard",
+      "ambient",
+      "dark"
+    ],
+    "description": "A cinematic drill beat featuring drill, night and hard. Ideal for artists looking for a modern production style.",
+    "plays": 40841,
+    "likes": 3993
+  },
+  {
+    "id": 38,
+    "title": "Silent Storm",
+    "producer": "Echo",
+    "genre": "Boom Bap",
+    "mood": "Aggressive",
+    "bpm": 135,
+    "key": "E Minor",
+    "duration_seconds": 207,
+    "tags": [
+      "sample",
+      "drums",
+      "club",
+      "afro",
+      "bounce"
+    ],
+    "description": "A aggressive boom bap beat featuring sample, drums and club. Ideal for artists looking for a modern production style.",
+    "plays": 23326,
+    "likes": 2307
+  },
+  {
+    "id": 39,
+    "title": "Cold Vibes",
+    "producer": "Drift",
+    "genre": "Melodic Trap",
+    "mood": "Aggressive",
+    "bpm": 120,
+    "key": "B Minor",
+    "duration_seconds": 136,
+    "tags": [
+      "summer",
+      "vocal",
+      "hard",
+      "bass",
+      "ambient"
+    ],
+    "description": "A aggressive melodic trap beat featuring summer, vocal and hard. Ideal for artists looking for a modern production style.",
+    "plays": 44665,
+    "likes": 1914
+  },
+  {
+    "id": 40,
+    "title": "Neon Storm",
+    "producer": "Echo",
+    "genre": "Trap",
+    "mood": "Uplifting",
+    "bpm": 155,
+    "key": "F Major",
+    "duration_seconds": 214,
+    "tags": [
+      "drill",
+      "guitar",
+      "sample",
+      "lofi",
+      "808"
+    ],
+    "description": "A uplifting trap beat featuring drill, guitar and sample. Ideal for artists looking for a modern production style.",
+    "plays": 45386,
+    "likes": 4038
+  },
+  {
+    "id": 41,
+    "title": "Electric Empire",
+    "producer": "Pulse",
+    "genre": "Pop",
+    "mood": "Melancholic",
+    "bpm": 85,
+    "key": "D Major",
+    "duration_seconds": 127,
+    "tags": [
+      "ambient",
+      "piano",
+      "bass",
+      "night",
+      "guitar"
+    ],
+    "description": "A melancholic pop beat featuring ambient, piano and bass. Ideal for artists looking for a modern production style.",
+    "plays": 15986,
+    "likes": 4601
+  },
+  {
+    "id": 42,
+    "title": "Scarlet Signal",
+    "producer": "VibeSmith",
+    "genre": "Dancehall",
+    "mood": "Cinematic",
+    "bpm": 135,
+    "key": "F Minor",
+    "duration_seconds": 128,
+    "tags": [
+      "bass",
+      "dark",
+      "dreamy",
+      "piano",
+      "phonk"
+    ],
+    "description": "A cinematic dancehall beat featuring bass, dark and dreamy. Ideal for artists looking for a modern production style.",
+    "plays": 2463,
+    "likes": 2559
+  },
+  {
+    "id": 43,
+    "title": "Ocean Rhythm",
+    "producer": "Kairo",
+    "genre": "Dancehall",
+    "mood": "Melancholic",
+    "bpm": 140,
+    "key": "D Minor",
+    "duration_seconds": 197,
+    "tags": [
+      "bells",
+      "phonk",
+      "melodic",
+      "cinematic",
+      "happy"
+    ],
+    "description": "A melancholic dancehall beat featuring bells, phonk and melodic. Ideal for artists looking for a modern production style.",
+    "plays": 26087,
+    "likes": 1787
+  },
+  {
+    "id": 44,
+    "title": "Golden Signal",
+    "producer": "Echo",
+    "genre": "R&B",
+    "mood": "Uplifting",
+    "bpm": 85,
+    "key": "D Minor",
+    "duration_seconds": 224,
+    "tags": [
+      "bounce",
+      "reverb",
+      "bells",
+      "trap",
+      "bass"
+    ],
+    "description": "A uplifting r&b beat featuring bounce, reverb and bells. Ideal for artists looking for a modern production style.",
+    "plays": 24314,
+    "likes": 1045
+  },
+  {
+    "id": 45,
+    "title": "Scarlet Waves",
+    "producer": "Aether",
+    "genre": "Lo-Fi",
+    "mood": "Energetic",
+    "bpm": 135,
+    "key": "G Minor",
+    "duration_seconds": 215,
+    "tags": [
+      "bass",
+      "strings",
+      "drums",
+      "drill",
+      "anthem"
+    ],
+    "description": "A energetic lo-fi beat featuring bass, strings and drums. Ideal for artists looking for a modern production style.",
+    "plays": 49258,
+    "likes": 851
+  },
+  {
+    "id": 46,
+    "title": "Ocean Motion",
+    "producer": "Pulse",
+    "genre": "Pop",
+    "mood": "Emotional",
+    "bpm": 100,
+    "key": "E Minor",
+    "duration_seconds": 177,
+    "tags": [
+      "bells",
+      "cinematic",
+      "sad",
+      "summer",
+      "happy"
+    ],
+    "description": "A emotional pop beat featuring bells, cinematic and sad. Ideal for artists looking for a modern production style.",
+    "plays": 6216,
+    "likes": 2947
+  },
+  {
+    "id": 47,
+    "title": "Scarlet Echo",
+    "producer": "Zen",
+    "genre": "Pop",
+    "mood": "Aggressive",
+    "bpm": 155,
+    "key": "G Minor",
+    "duration_seconds": 176,
+    "tags": [
+      "strings",
+      "lofi",
+      "anthem",
+      "emotional",
+      "dark"
+    ],
+    "description": "A aggressive pop beat featuring strings, lofi and anthem. Ideal for artists looking for a modern production style.",
+    "plays": 29501,
+    "likes": 4936
+  },
+  {
+    "id": 48,
+    "title": "Broken Waves",
+    "producer": "Pulse",
+    "genre": "Melodic Trap",
+    "mood": "Melancholic",
+    "bpm": 140,
+    "key": "B Minor",
+    "duration_seconds": 210,
+    "tags": [
+      "happy",
+      "lofi",
+      "melodic",
+      "bounce",
+      "drums"
+    ],
+    "description": "A melancholic melodic trap beat featuring happy, lofi and melodic. Ideal for artists looking for a modern production style.",
+    "plays": 24541,
+    "likes": 197
+  },
+  {
+    "id": 49,
+    "title": "Midnight Horizon",
+    "producer": "Lunar",
+    "genre": "Afrobeats",
+    "mood": "Dark",
+    "bpm": 155,
+    "key": "G Minor",
+    "duration_seconds": 168,
+    "tags": [
+      "trap",
+      "cinematic",
+      "sad",
+      "vocal",
+      "piano"
+    ],
+    "description": "A dark afrobeats beat featuring trap, cinematic and sad. Ideal for artists looking for a modern production style.",
+    "plays": 14275,
+    "likes": 2974
+  },
+  {
+    "id": 50,
+    "title": "Lost Dreams",
+    "producer": "Kairo",
+    "genre": "R&B",
+    "mood": "Dark",
+    "bpm": 110,
+    "key": "C Minor",
+    "duration_seconds": 216,
+    "tags": [
+      "guitar",
+      "sample",
+      "bounce",
+      "drill",
+      "emotional"
+    ],
+    "description": "A dark r&b beat featuring guitar, sample and bounce. Ideal for artists looking for a modern production style.",
+    "plays": 37871,
+    "likes": 1110
+  },
+  {
+    "id": 51,
+    "title": "Golden Season",
+    "producer": "Echo",
+    "genre": "Dancehall",
+    "mood": "Aggressive",
+    "bpm": 80,
+    "key": "D Major",
+    "duration_seconds": 230,
+    "tags": [
+      "bass",
+      "vocal",
+      "guitar",
+      "bounce",
+      "piano"
+    ],
+    "description": "A aggressive dancehall beat featuring bass, vocal and guitar. Ideal for artists looking for a modern production style.",
+    "plays": 47126,
+    "likes": 1657
+  },
+  {
+    "id": 52,
+    "title": "Cold Storm",
+    "producer": "Drift",
+    "genre": "Dancehall",
+    "mood": "Cinematic",
+    "bpm": 90,
+    "key": "D Major",
+    "duration_seconds": 163,
+    "tags": [
+      "synth",
+      "night",
+      "drums",
+      "ambient",
+      "sad"
+    ],
+    "description": "A cinematic dancehall beat featuring synth, night and drums. Ideal for artists looking for a modern production style.",
+    "plays": 36796,
+    "likes": 3395
+  },
+  {
+    "id": 53,
+    "title": "Solar Season",
+    "producer": "Kairo",
+    "genre": "Afrobeats",
+    "mood": "Melancholic",
+    "bpm": 100,
+    "key": "G Minor",
+    "duration_seconds": 149,
+    "tags": [
+      "dark",
+      "ambient",
+      "club",
+      "drums",
+      "afro"
+    ],
+    "description": "A melancholic afrobeats beat featuring dark, ambient and club. Ideal for artists looking for a modern production style.",
+    "plays": 19772,
+    "likes": 2407
+  },
+  {
+    "id": 54,
+    "title": "Wild Frequency",
+    "producer": "Kairo",
+    "genre": "Drill",
+    "mood": "Emotional",
+    "bpm": 85,
+    "key": "B Minor",
+    "duration_seconds": 203,
+    "tags": [
+      "phonk",
+      "guitar",
+      "emotional",
+      "happy",
+      "hard"
+    ],
+    "description": "A emotional drill beat featuring phonk, guitar and emotional. Ideal for artists looking for a modern production style.",
+    "plays": 14513,
+    "likes": 2445
+  },
+  {
+    "id": 55,
+    "title": "Wild Signal",
+    "producer": "Rogue",
+    "genre": "Trap",
+    "mood": "Emotional",
+    "bpm": 70,
+    "key": "D Minor",
+    "duration_seconds": 131,
+    "tags": [
+      "bounce",
+      "anthem",
+      "synth",
+      "club",
+      "ambient"
+    ],
+    "description": "A emotional trap beat featuring bounce, anthem and synth. Ideal for artists looking for a modern production style.",
+    "plays": 26111,
+    "likes": 2550
+  },
+  {
+    "id": 56,
+    "title": "Scarlet Lights",
+    "producer": "Rogue",
+    "genre": "Lo-Fi",
+    "mood": "Melancholic",
+    "bpm": 80,
+    "key": "E Minor",
+    "duration_seconds": 162,
+    "tags": [
+      "drums",
+      "anthem",
+      "synth",
+      "bells",
+      "guitar"
+    ],
+    "description": "A melancholic lo-fi beat featuring drums, anthem and synth. Ideal for artists looking for a modern production style.",
+    "plays": 17159,
+    "likes": 383
+  },
+  {
+    "id": 57,
+    "title": "Ghost Rhythm",
+    "producer": "Aether",
+    "genre": "Boom Bap",
+    "mood": "Chill",
+    "bpm": 140,
+    "key": "C Minor",
+    "duration_seconds": 131,
+    "tags": [
+      "strings",
+      "lofi",
+      "happy",
+      "bounce",
+      "dreamy"
+    ],
+    "description": "A chill boom bap beat featuring strings, lofi and happy. Ideal for artists looking for a modern production style.",
+    "plays": 42300,
+    "likes": 2536
+  },
+  {
+    "id": 58,
+    "title": "Solar Vibes",
+    "producer": "Rogue",
+    "genre": "Dancehall",
+    "mood": "Emotional",
+    "bpm": 85,
+    "key": "F Minor",
+    "duration_seconds": 133,
+    "tags": [
+      "afro",
+      "happy",
+      "lofi",
+      "piano",
+      "drill"
+    ],
+    "description": "A emotional dancehall beat featuring afro, happy and lofi. Ideal for artists looking for a modern production style.",
+    "plays": 40895,
+    "likes": 3565
+  },
+  {
+    "id": 59,
+    "title": "Shadow Frequency",
+    "producer": "Atlas",
+    "genre": "Hip Hop",
+    "mood": "Energetic",
+    "bpm": 80,
+    "key": "F Minor",
+    "duration_seconds": 188,
+    "tags": [
+      "anthem",
+      "sad",
+      "club",
+      "summer",
+      "drums"
+    ],
+    "description": "A energetic hip hop beat featuring anthem, sad and club. Ideal for artists looking for a modern production style.",
+    "plays": 27479,
+    "likes": 1402
+  },
+  {
+    "id": 60,
+    "title": "Broken Soul",
+    "producer": "Pulse",
+    "genre": "Pop",
+    "mood": "Aggressive",
+    "bpm": 145,
+    "key": "B Minor",
+    "duration_seconds": 172,
+    "tags": [
+      "strings",
+      "emotional",
+      "808",
+      "afro",
+      "ambient"
+    ],
+    "description": "A aggressive pop beat featuring strings, emotional and 808. Ideal for artists looking for a modern production style.",
+    "plays": 16176,
+    "likes": 778
+  },
+  {
+    "id": 61,
+    "title": "Solar Journey",
+    "producer": "VibeSmith",
+    "genre": "R&B",
+    "mood": "Energetic",
+    "bpm": 145,
+    "key": "B Minor",
+    "duration_seconds": 177,
+    "tags": [
+      "bells",
+      "anthem",
+      "vocal",
+      "reverb",
+      "bass"
+    ],
+    "description": "A energetic r&b beat featuring bells, anthem and vocal. Ideal for artists looking for a modern production style.",
+    "plays": 19510,
+    "likes": 4269
+  },
+  {
+    "id": 62,
+    "title": "Electric Pulse",
+    "producer": "Nova",
+    "genre": "R&B",
+    "mood": "Dreamy",
+    "bpm": 95,
+    "key": "A Minor",
+    "duration_seconds": 190,
+    "tags": [
+      "piano",
+      "club",
+      "trap",
+      "phonk",
+      "summer"
+    ],
+    "description": "A dreamy r&b beat featuring piano, club and trap. Ideal for artists looking for a modern production style.",
+    "plays": 35233,
+    "likes": 788
+  },
+  {
+    "id": 63,
+    "title": "Broken Waves",
+    "producer": "Kairo",
+    "genre": "Boom Bap",
+    "mood": "Chill",
+    "bpm": 70,
+    "key": "B Minor",
+    "duration_seconds": 230,
+    "tags": [
+      "synth",
+      "trap",
+      "drums",
+      "piano",
+      "drill"
+    ],
+    "description": "A chill boom bap beat featuring synth, trap and drums. Ideal for artists looking for a modern production style.",
+    "plays": 42291,
+    "likes": 1499
+  },
+  {
+    "id": 64,
+    "title": "Silent Lights",
+    "producer": "Zen",
+    "genre": "Dancehall",
+    "mood": "Chill",
+    "bpm": 130,
+    "key": "A Minor",
+    "duration_seconds": 169,
+    "tags": [
+      "808",
+      "melodic",
+      "sad",
+      "dreamy",
+      "summer"
+    ],
+    "description": "A chill dancehall beat featuring 808, melodic and sad. Ideal for artists looking for a modern production style.",
+    "plays": 32980,
+    "likes": 867
+  },
+  {
+    "id": 65,
+    "title": "Golden Echo",
+    "producer": "Pulse",
+    "genre": "R&B",
+    "mood": "Cinematic",
+    "bpm": 155,
+    "key": "D Major",
+    "duration_seconds": 167,
+    "tags": [
+      "night",
+      "synth",
+      "808",
+      "ambient",
+      "afro"
+    ],
+    "description": "A cinematic r&b beat featuring night, synth and 808. Ideal for artists looking for a modern production style.",
+    "plays": 24310,
+    "likes": 268
+  },
+  {
+    "id": 66,
+    "title": "Skyline Vibes",
+    "producer": "Horizon",
+    "genre": "Afrobeats",
+    "mood": "Aggressive",
+    "bpm": 72,
+    "key": "F Minor",
+    "duration_seconds": 128,
+    "tags": [
+      "bells",
+      "emotional",
+      "bounce",
+      "trap",
+      "reverb"
+    ],
+    "description": "A aggressive afrobeats beat featuring bells, emotional and bounce. Ideal for artists looking for a modern production style.",
+    "plays": 17315,
+    "likes": 883
+  },
+  {
+    "id": 67,
+    "title": "Lost Horizon",
+    "producer": "Drift",
+    "genre": "Lo-Fi",
+    "mood": "Cinematic",
+    "bpm": 70,
+    "key": "D Minor",
+    "duration_seconds": 204,
+    "tags": [
+      "club",
+      "afro",
+      "trap",
+      "anthem",
+      "guitar"
+    ],
+    "description": "A cinematic lo-fi beat featuring club, afro and trap. Ideal for artists looking for a modern production style.",
+    "plays": 40858,
+    "likes": 1327
+  },
+  {
+    "id": 68,
+    "title": "Aurora Energy",
+    "producer": "Aether",
+    "genre": "Afrobeats",
+    "mood": "Dreamy",
+    "bpm": 80,
+    "key": "D Major",
+    "duration_seconds": 120,
+    "tags": [
+      "808",
+      "dark",
+      "happy",
+      "drums",
+      "hard"
+    ],
+    "description": "A dreamy afrobeats beat featuring 808, dark and happy. Ideal for artists looking for a modern production style.",
+    "plays": 17996,
+    "likes": 468
+  },
+  {
+    "id": 69,
+    "title": "Skyline Energy",
+    "producer": "Atlas",
+    "genre": "Afrobeats",
+    "mood": "Dark",
+    "bpm": 110,
+    "key": "G Minor",
+    "duration_seconds": 210,
+    "tags": [
+      "piano",
+      "sample",
+      "vocal",
+      "808",
+      "drill"
+    ],
+    "description": "A dark afrobeats beat featuring piano, sample and vocal. Ideal for artists looking for a modern production style.",
+    "plays": 40676,
+    "likes": 2710
+  },
+  {
+    "id": 70,
+    "title": "Electric Echo",
+    "producer": "Zen",
+    "genre": "Afrobeats",
+    "mood": "Happy",
+    "bpm": 150,
+    "key": "C Minor",
+    "duration_seconds": 225,
+    "tags": [
+      "sample",
+      "reverb",
+      "lofi",
+      "drums",
+      "guitar"
+    ],
+    "description": "A happy afrobeats beat featuring sample, reverb and lofi. Ideal for artists looking for a modern production style.",
+    "plays": 11327,
+    "likes": 3676
+  },
+  {
+    "id": 71,
+    "title": "Gravity Vibes",
+    "producer": "Echo",
+    "genre": "Pop",
+    "mood": "Cinematic",
+    "bpm": 155,
+    "key": "D Major",
+    "duration_seconds": 125,
+    "tags": [
+      "club",
+      "night",
+      "trap",
+      "afro",
+      "808"
+    ],
+    "description": "A cinematic pop beat featuring club, night and trap. Ideal for artists looking for a modern production style.",
+    "plays": 18136,
+    "likes": 1968
+  },
+  {
+    "id": 72,
+    "title": "Wild Frequency",
+    "producer": "Lunar",
+    "genre": "Hip Hop",
+    "mood": "Dark",
+    "bpm": 95,
+    "key": "C Minor",
+    "duration_seconds": 145,
+    "tags": [
+      "emotional",
+      "808",
+      "bells",
+      "piano",
+      "happy"
+    ],
+    "description": "A dark hip hop beat featuring emotional, 808 and bells. Ideal for artists looking for a modern production style.",
+    "plays": 8604,
+    "likes": 1326
+  },
+  {
+    "id": 73,
+    "title": "Skyline Vibes",
+    "producer": "Kairo",
+    "genre": "Lo-Fi",
+    "mood": "Dark",
+    "bpm": 110,
+    "key": "C Major",
+    "duration_seconds": 217,
+    "tags": [
+      "bounce",
+      "melodic",
+      "sample",
+      "808",
+      "dark"
+    ],
+    "description": "A dark lo-fi beat featuring bounce, melodic and sample. Ideal for artists looking for a modern production style.",
+    "plays": 21963,
+    "likes": 3593
+  },
+  {
+    "id": 74,
+    "title": "Lost Pulse",
+    "producer": "Horizon",
+    "genre": "Lo-Fi",
+    "mood": "Emotional",
+    "bpm": 100,
+    "key": "E Minor",
+    "duration_seconds": 196,
+    "tags": [
+      "phonk",
+      "melodic",
+      "lofi",
+      "anthem",
+      "cinematic"
+    ],
+    "description": "A emotional lo-fi beat featuring phonk, melodic and lofi. Ideal for artists looking for a modern production style.",
+    "plays": 22036,
+    "likes": 2259
+  },
+  {
+    "id": 75,
+    "title": "Midnight Echo",
+    "producer": "Drift",
+    "genre": "Hip Hop",
+    "mood": "Uplifting",
+    "bpm": 75,
+    "key": "C Minor",
+    "duration_seconds": 210,
+    "tags": [
+      "bass",
+      "phonk",
+      "lofi",
+      "dark",
+      "night"
+    ],
+    "description": "A uplifting hip hop beat featuring bass, phonk and lofi. Ideal for artists looking for a modern production style.",
+    "plays": 5819,
+    "likes": 4408
+  },
+  {
+    "id": 76,
+    "title": "Ghost Soul",
+    "producer": "Atlas",
+    "genre": "Drill",
+    "mood": "Emotional",
+    "bpm": 75,
+    "key": "D Major",
+    "duration_seconds": 180,
+    "tags": [
+      "hard",
+      "sample",
+      "anthem",
+      "drums",
+      "ambient"
+    ],
+    "description": "A emotional drill beat featuring hard, sample and anthem. Ideal for artists looking for a modern production style.",
+    "plays": 39465,
+    "likes": 1670
+  },
+  {
+    "id": 77,
+    "title": "Neon Echo",
+    "producer": "Horizon",
+    "genre": "Pop",
+    "mood": "Emotional",
+    "bpm": 155,
+    "key": "A Minor",
+    "duration_seconds": 157,
+    "tags": [
+      "808",
+      "guitar",
+      "drums",
+      "melodic",
+      "summer"
+    ],
+    "description": "A emotional pop beat featuring 808, guitar and drums. Ideal for artists looking for a modern production style.",
+    "plays": 14107,
+    "likes": 4656
+  },
+  {
+    "id": 78,
+    "title": "Silent Soul",
+    "producer": "Atlas",
+    "genre": "Hip Hop",
+    "mood": "Dreamy",
+    "bpm": 130,
+    "key": "E Minor",
+    "duration_seconds": 224,
+    "tags": [
+      "sample",
+      "guitar",
+      "drill",
+      "bass",
+      "piano"
+    ],
+    "description": "A dreamy hip hop beat featuring sample, guitar and drill. Ideal for artists looking for a modern production style.",
+    "plays": 508,
+    "likes": 4589
+  },
+  {
+    "id": 79,
+    "title": "Golden Storm",
+    "producer": "Kairo",
+    "genre": "R&B",
+    "mood": "Cinematic",
+    "bpm": 145,
+    "key": "C Major",
+    "duration_seconds": 137,
+    "tags": [
+      "synth",
+      "drill",
+      "drums",
+      "trap",
+      "anthem"
+    ],
+    "description": "A cinematic r&b beat featuring synth, drill and drums. Ideal for artists looking for a modern production style.",
+    "plays": 25863,
+    "likes": 3731
+  },
+  {
+    "id": 80,
+    "title": "Silent Flame",
+    "producer": "Lunar",
+    "genre": "Trap",
+    "mood": "Dark",
+    "bpm": 70,
+    "key": "G Minor",
+    "duration_seconds": 145,
+    "tags": [
+      "dreamy",
+      "guitar",
+      "sample",
+      "dark",
+      "808"
+    ],
+    "description": "A dark trap beat featuring dreamy, guitar and sample. Ideal for artists looking for a modern production style.",
+    "plays": 33308,
+    "likes": 3842
+  },
+  {
+    "id": 81,
+    "title": "Electric Motion",
+    "producer": "Kairo",
+    "genre": "Dancehall",
+    "mood": "Uplifting",
+    "bpm": 150,
+    "key": "F Minor",
+    "duration_seconds": 200,
+    "tags": [
+      "bass",
+      "cinematic",
+      "bells",
+      "afro",
+      "drill"
+    ],
+    "description": "A uplifting dancehall beat featuring bass, cinematic and bells. Ideal for artists looking for a modern production style.",
+    "plays": 35472,
+    "likes": 685
+  },
+  {
+    "id": 82,
+    "title": "Shadow Storm",
+    "producer": "Drift",
+    "genre": "Pop",
+    "mood": "Happy",
+    "bpm": 150,
+    "key": "C Minor",
+    "duration_seconds": 195,
+    "tags": [
+      "melodic",
+      "summer",
+      "piano",
+      "hard",
+      "emotional"
+    ],
+    "description": "A happy pop beat featuring melodic, summer and piano. Ideal for artists looking for a modern production style.",
+    "plays": 13193,
+    "likes": 736
+  },
+  {
+    "id": 83,
+    "title": "Crystal Journey",
+    "producer": "Pulse",
+    "genre": "R&B",
+    "mood": "Cinematic",
+    "bpm": 75,
+    "key": "A Minor",
+    "duration_seconds": 240,
+    "tags": [
+      "dark",
+      "anthem",
+      "summer",
+      "reverb",
+      "bass"
+    ],
+    "description": "A cinematic r&b beat featuring dark, anthem and summer. Ideal for artists looking for a modern production style.",
+    "plays": 47717,
+    "likes": 130
+  },
+  {
+    "id": 84,
+    "title": "Golden Journey",
+    "producer": "Kairo",
+    "genre": "Dancehall",
+    "mood": "Dreamy",
+    "bpm": 140,
+    "key": "C Major",
+    "duration_seconds": 234,
+    "tags": [
+      "synth",
+      "sample",
+      "vocal",
+      "sad",
+      "phonk"
+    ],
+    "description": "A dreamy dancehall beat featuring synth, sample and vocal. Ideal for artists looking for a modern production style.",
+    "plays": 28790,
+    "likes": 297
+  },
+  {
+    "id": 85,
+    "title": "Aurora Vibes",
+    "producer": "VibeSmith",
+    "genre": "Dancehall",
+    "mood": "Chill",
+    "bpm": 145,
+    "key": "B Minor",
+    "duration_seconds": 166,
+    "tags": [
+      "summer",
+      "melodic",
+      "lofi",
+      "ambient",
+      "bells"
+    ],
+    "description": "A chill dancehall beat featuring summer, melodic and lofi. Ideal for artists looking for a modern production style.",
+    "plays": 44579,
+    "likes": 1062
+  },
+  {
+    "id": 86,
+    "title": "Electric Echo",
+    "producer": "Atlas",
+    "genre": "R&B",
+    "mood": "Chill",
+    "bpm": 155,
+    "key": "F Minor",
+    "duration_seconds": 223,
+    "tags": [
+      "club",
+      "sample",
+      "melodic",
+      "reverb",
+      "cinematic"
+    ],
+    "description": "A chill r&b beat featuring club, sample and melodic. Ideal for artists looking for a modern production style.",
+    "plays": 11784,
+    "likes": 2301
+  },
+  {
+    "id": 87,
+    "title": "Lost Energy",
+    "producer": "Echo",
+    "genre": "Hip Hop",
+    "mood": "Energetic",
+    "bpm": 110,
+    "key": "E Minor",
+    "duration_seconds": 159,
+    "tags": [
+      "melodic",
+      "cinematic",
+      "dark",
+      "808",
+      "lofi"
+    ],
+    "description": "A energetic hip hop beat featuring melodic, cinematic and dark. Ideal for artists looking for a modern production style.",
+    "plays": 40454,
+    "likes": 1982
+  },
+  {
+    "id": 88,
+    "title": "Cold Dreams",
+    "producer": "Zen",
+    "genre": "Melodic Trap",
+    "mood": "Uplifting",
+    "bpm": 145,
+    "key": "G Minor",
+    "duration_seconds": 165,
+    "tags": [
+      "summer",
+      "night",
+      "strings",
+      "sad",
+      "808"
+    ],
+    "description": "A uplifting melodic trap beat featuring summer, night and strings. Ideal for artists looking for a modern production style.",
+    "plays": 45259,
+    "likes": 311
+  },
+  {
+    "id": 89,
+    "title": "Silent Rush",
+    "producer": "Drift",
+    "genre": "Dancehall",
+    "mood": "Melancholic",
+    "bpm": 155,
+    "key": "C Minor",
+    "duration_seconds": 176,
+    "tags": [
+      "ambient",
+      "happy",
+      "emotional",
+      "summer",
+      "melodic"
+    ],
+    "description": "A melancholic dancehall beat featuring ambient, happy and emotional. Ideal for artists looking for a modern production style.",
+    "plays": 9284,
+    "likes": 1145
+  },
+  {
+    "id": 90,
+    "title": "Midnight Season",
+    "producer": "Aether",
+    "genre": "Drill",
+    "mood": "Emotional",
+    "bpm": 140,
+    "key": "G Minor",
+    "duration_seconds": 197,
+    "tags": [
+      "happy",
+      "club",
+      "afro",
+      "synth",
+      "sad"
+    ],
+    "description": "A emotional drill beat featuring happy, club and afro. Ideal for artists looking for a modern production style.",
+    "plays": 28156,
+    "likes": 3175
+  },
+  {
+    "id": 91,
+    "title": "Ocean Pulse",
+    "producer": "Aether",
+    "genre": "Lo-Fi",
+    "mood": "Chill",
+    "bpm": 130,
+    "key": "F Minor",
+    "duration_seconds": 178,
+    "tags": [
+      "afro",
+      "summer",
+      "cinematic",
+      "phonk",
+      "lofi"
+    ],
+    "description": "A chill lo-fi beat featuring afro, summer and cinematic. Ideal for artists looking for a modern production style.",
+    "plays": 12122,
+    "likes": 4524
+  },
+  {
+    "id": 92,
+    "title": "Velvet Journey",
+    "producer": "Rogue",
+    "genre": "Pop",
+    "mood": "Melancholic",
+    "bpm": 130,
+    "key": "C Minor",
+    "duration_seconds": 194,
+    "tags": [
+      "drums",
+      "melodic",
+      "trap",
+      "bounce",
+      "synth"
+    ],
+    "description": "A melancholic pop beat featuring drums, melodic and trap. Ideal for artists looking for a modern production style.",
+    "plays": 17902,
+    "likes": 2207
+  },
+  {
+    "id": 93,
+    "title": "Aurora Flame",
+    "producer": "VibeSmith",
+    "genre": "Lo-Fi",
+    "mood": "Dreamy",
+    "bpm": 110,
+    "key": "G Minor",
+    "duration_seconds": 200,
+    "tags": [
+      "bounce",
+      "happy",
+      "guitar",
+      "phonk",
+      "cinematic"
+    ],
+    "description": "A dreamy lo-fi beat featuring bounce, happy and guitar. Ideal for artists looking for a modern production style.",
+    "plays": 49561,
+    "likes": 495
+  },
+  {
+    "id": 94,
+    "title": "Golden Empire",
+    "producer": "Echo",
+    "genre": "Lo-Fi",
+    "mood": "Cinematic",
+    "bpm": 72,
+    "key": "C Minor",
+    "duration_seconds": 211,
+    "tags": [
+      "melodic",
+      "reverb",
+      "dark",
+      "vocal",
+      "happy"
+    ],
+    "description": "A cinematic lo-fi beat featuring melodic, reverb and dark. Ideal for artists looking for a modern production style.",
+    "plays": 47964,
+    "likes": 1055
+  },
+  {
+    "id": 95,
+    "title": "Scarlet Storm",
+    "producer": "Lunar",
+    "genre": "Dancehall",
+    "mood": "Uplifting",
+    "bpm": 80,
+    "key": "B Minor",
+    "duration_seconds": 202,
+    "tags": [
+      "drill",
+      "reverb",
+      "dreamy",
+      "bounce",
+      "drums"
+    ],
+    "description": "A uplifting dancehall beat featuring drill, reverb and dreamy. Ideal for artists looking for a modern production style.",
+    "plays": 1863,
+    "likes": 3058
+  },
+  {
+    "id": 96,
+    "title": "Velvet Horizon",
+    "producer": "Kairo",
+    "genre": "Drill",
+    "mood": "Melancholic",
+    "bpm": 70,
+    "key": "D Major",
+    "duration_seconds": 207,
+    "tags": [
+      "dark",
+      "happy",
+      "strings",
+      "phonk",
+      "drill"
+    ],
+    "description": "A melancholic drill beat featuring dark, happy and strings. Ideal for artists looking for a modern production style.",
+    "plays": 46029,
+    "likes": 893
+  },
+  {
+    "id": 97,
+    "title": "Solar Season",
+    "producer": "VibeSmith",
+    "genre": "Boom Bap",
+    "mood": "Emotional",
+    "bpm": 130,
+    "key": "E Minor",
+    "duration_seconds": 153,
+    "tags": [
+      "drums",
+      "trap",
+      "piano",
+      "emotional",
+      "happy"
+    ],
+    "description": "A emotional boom bap beat featuring drums, trap and piano. Ideal for artists looking for a modern production style.",
+    "plays": 24698,
+    "likes": 3172
+  },
+  {
+    "id": 98,
+    "title": "Skyline Dreams",
+    "producer": "Kairo",
+    "genre": "Trap",
+    "mood": "Cinematic",
+    "bpm": 110,
+    "key": "F Major",
+    "duration_seconds": 149,
+    "tags": [
+      "night",
+      "emotional",
+      "hard",
+      "dark",
+      "afro"
+    ],
+    "description": "A cinematic trap beat featuring night, emotional and hard. Ideal for artists looking for a modern production style.",
+    "plays": 7106,
+    "likes": 2654
+  },
+  {
+    "id": 99,
+    "title": "Scarlet Vision",
+    "producer": "Lunar",
+    "genre": "R&B",
+    "mood": "Cinematic",
+    "bpm": 135,
+    "key": "C Minor",
+    "duration_seconds": 167,
+    "tags": [
+      "sad",
+      "vocal",
+      "dark",
+      "hard",
+      "trap"
+    ],
+    "description": "A cinematic r&b beat featuring sad, vocal and dark. Ideal for artists looking for a modern production style.",
+    "plays": 46426,
+    "likes": 1637
+  },
+  {
+    "id": 100,
+    "title": "Ocean Energy",
+    "producer": "Rogue",
+    "genre": "R&B",
+    "mood": "Chill",
+    "bpm": 135,
+    "key": "D Minor",
+    "duration_seconds": 217,
+    "tags": [
+      "emotional",
+      "summer",
+      "sample",
+      "anthem",
+      "dreamy"
+    ],
+    "description": "A chill r&b beat featuring emotional, summer and sample. Ideal for artists looking for a modern production style.",
+    "plays": 546,
+    "likes": 502
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Beat22",
+    "slug": "beat22",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#070510",
+    "splash": {
+      "backgroundColor": "#0C0A15"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.beat22.app"
+    },
+    "android": {
+      "package": "com.beat22.app",
+      "adaptiveIcon": {
+      "backgroundColor": "#0C0A15"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}

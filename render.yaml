@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: beat22-backend
+    runtime: node
+    plan: free
+    rootDir: backend
+    buildCommand: npm install -g bun && bun install --production
+    startCommand: bun src/server.js
+    envVars:
+      - key: PORT
+        value: 4000
+    healthCheckPath: /health

@@ -1,0 +1,21 @@
+{
+  "name": "beat22-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Beat22 - beat discovery and recommendation engine",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "bun src/server.js",
+    "dev": "bun --watch src/server.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "helmet": "^7.1.0",
+    "morgan": "^1.10.0"
+  },
+  "engines": {
+    "bun": ">=1.0"
+  }
+}
